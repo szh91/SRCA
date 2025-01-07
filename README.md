@@ -1,6 +1,6 @@
 If you find this repo useful in your research, please consider citing:
 
-@inproceedings{Bewley2016_sort,
+@inproceedings{Sun2025_blind,
   author={Sun, Zhihong and Lv, Zheng and Xiong, Mingfu and Hu, Wei and Wei, Guoheng and Zhou, Jiuxing and He, Tao and Meng, Qingrui},
   booktitle={The Visual Computer},
   title={Blind Super-Resolution and Clustering Learning
