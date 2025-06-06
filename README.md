@@ -13,8 +13,18 @@ If you find this repo useful in your research, please consider citing:
 Requirements
  = 
 * Python>=3.7
-* PyTorch ≥ 1.8 and torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this.
+* PyTorch ≥ 1.8 and torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this
+* pip install -r requirements.txt
   
 Pre-trained Models
  = 
  * The pre-trained model is available at /.main_download_pretrained_models.py
+
+
+Run the bsrgan
+=
+* python main_test_bsrgan.py
+
+Run the tracker
+=
+* python so.py
