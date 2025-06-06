@@ -14,5 +14,7 @@ Requirements
  = 
 * Python>=3.7
 * PyTorch ≥ 1.8 and torchvision that matches the PyTorch installation. You can install them together at pytorch.org to make sure of this.
+  
 Pre-trained Models
  = 
+ * The pre-trained model is available at /.main_download_pretrained_models.py
